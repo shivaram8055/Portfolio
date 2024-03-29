@@ -21,15 +21,21 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import firebase from './tech/firebase.png'
+import flask from './tech/flask.png'
+import python from './tech/python.png'
+import hubspot from './tech/hubspot.png'
+
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
+
+import portfolio from "./portfolio.jpeg";
 import tripguide from "./tripguide.png";
+import BeyondRetail from './BeyondRetail.jpeg'
 
 export {
   logo,
@@ -46,7 +52,11 @@ export {
   figma,
   git,
   html,
+  hubspot,
   javascript,
+  python,
+  flask,
+  firebase,
   mongodb,
   nodejs,
   reactjs,
@@ -58,7 +68,7 @@ export {
   shopify,
   starbucks,
   tesla,
-  carrent,
-  jobit,
+  BeyondRetail,
+  portfolio,
   tripguide,
 };
